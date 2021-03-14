@@ -102,6 +102,7 @@ a:hover {
 
 section {
 	margin-top: 3em;
+	padding: 1rem;
 }
 
 .space-small > * + * {
