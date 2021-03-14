@@ -30,16 +30,16 @@
 	letter-spacing: 2px;
 }
 
+.intro {
+	text-align: left;
+}
+
 .secondary-title_large {
 	text-transform: uppercase;
 	font-size: 4em;
 	margin-top: 1em;
 	letter-spacing: 2px;
 	text-align: center;
-}
-
-.intro {
-	text-align: left;
 }
 
 .about-section {
